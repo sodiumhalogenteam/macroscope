@@ -4,7 +4,7 @@ client project hub
 ## potential new structure
 
 * client/
-* * project.yaml
+** project.yaml
 * * milestone 1/
 * * * details.yaml
 * * * img.jpg
