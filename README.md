@@ -1,0 +1,2 @@
+# macroscope
+client project hub
